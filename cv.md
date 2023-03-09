@@ -33,3 +33,12 @@ function multiply(a, b){
   return a * b
 }
 ```
+#### *Other Practise Problems could be found in a given link below:*
+[Practise Problems](https://github.com/MalikaSadullaeva96/hexlet_pratice/tree/main/oop)
+
+## **Languages**
+
+* Russian - native
+* English - advanced
+* Uzbek - advanced
+* Korean - basic
